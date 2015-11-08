@@ -1,5 +1,5 @@
-1 AppBlackjack.rar
-Игра в Blackjack
+1 GameBj.rar
+Игра в Blackjack. Консольное приложение
 
 2b. 
 Реализовать generic коллекцию, которая внутри себя хранит элементы
