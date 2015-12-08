@@ -1,8 +1,14 @@
 1 GameBj.rar
 Игра в Blackjack. Консольное приложение
 
-2 LibraryWF.rar
+2a LibraryWF.rar
 Приложение winform библиотека. Хранение данных в XML файле
+
+2b  LibraryWF3 EF.rar
+Приложение winform библиотека. Технология EF codefirst. Реализован паттерн MVP.
+
+2c LibraryWF3 ADO NET.rar
+Приложение winform библиотека. Технология ADO.NET. Реализован паттерн MVP.
 
 3. 
 Создать иерархию классов и выделить основные свойства
